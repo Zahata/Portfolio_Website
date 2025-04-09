@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_project=self.webpackChunkreact_project||[]).push([[868],{6868:(e,c,t)=>{e.exports=t.p+"static/media/Movieland.51da2e77c38b8fc542ed.png"}}]);

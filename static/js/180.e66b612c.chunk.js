@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_project=self.webpackChunkreact_project||[]).push([[180],{8180:(e,c,t)=>{e.exports=t.p+"static/media/close-button.04c1e644d5930c0cbe10.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_project=self.webpackChunkreact_project||[]).push([[224],{1224:(e,a,c)=>{e.exports=c.p+"static/media/hamburger.a633845bca57a0d1a648.png"}}]);

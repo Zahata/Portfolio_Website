@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_project=self.webpackChunkreact_project||[]).push([[504],{7504:(e,c,t)=>{e.exports=t.p+"static/media/rectangle-right.7682a17d1110efc4c042.png"}}]);

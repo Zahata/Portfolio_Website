@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_project=self.webpackChunkreact_project||[]).push([[984],{8984:(e,c,t)=>{e.exports=t.p+"static/media/Calculator.16a14017f24087d5ed2c.png"}}]);

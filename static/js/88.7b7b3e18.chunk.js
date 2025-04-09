@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_project=self.webpackChunkreact_project||[]).push([[88],{88:(e,c,t)=>{e.exports=t.p+"static/media/bg-img.1ab18118e979a0dc3c5c.webp"}}]);

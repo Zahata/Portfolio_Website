@@ -1,0 +1,130 @@
+.modal-container {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 10;
+  }
+  
+.modal {
+    border-radius: 5px;
+    padding: 2rem;
+    background-color: white;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-title-container {
+    display: flex;
+    justify-content: center;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container input{
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(94, 94, 94);
+}
+
+.form-container input::-webkit-input-placeholder {
+    font-weight: 400;
+    color: black;
+    transition: 0.1s;
+}
+
+.form-container input:focus::-webkit-input-placeholder {
+    font-weight: 200;
+    color: rgb(182, 177, 177);
+}
+
+.form-container textarea{
+    padding: 10px 10px;
+    height: 120px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(94, 94, 94);
+}
+
+.form-container textarea::-webkit-input-placeholder {
+    font-weight: 400;
+    color: black;
+    transition: 0.1s;
+}
+
+.form-container textarea:focus::-webkit-input-placeholder {
+    font-weight: 200;
+    color: rgb(182, 177, 177);
+}
+
+.ctrl_buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.ctrl_buttons button {
+    padding: 5px;
+    width: 150px;
+    height: 35px;
+}
+
+.ctrl_buttons button:nth-child(1) {
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 25px;
+    border: 0px;
+    font-weight: 700;
+    box-shadow: 0px 0px 14px -7px #2e77c0;
+    background-image: linear-gradient(45deg, #083d72 0%, #2e77c0  51%, #083d72  100%);
+    cursor: pointer;
+}
+
+.ctrl_buttons button:nth-child(1):hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.ctrl_buttons button:nth-child(1):active {
+    transform: scale(0.8);
+}
+
+.ctrl_buttons button:nth-child(2) {
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 25px;
+    border: 0px;
+    font-weight: 700;
+    box-shadow: 0px 0px 14px -7px #2e77c0;
+    background-image: linear-gradient(45deg, #540606 0%, #8b0c0c  51%, #540606  100%);
+    cursor: pointer;
+}
+
+.ctrl_buttons button:nth-child(2):hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.ctrl_buttons button:nth-child(2):active {
+    transform: scale(0.8);
+}
+
+

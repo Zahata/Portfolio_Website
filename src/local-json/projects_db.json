@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "title": "React calculator application",
+    "image": "Calculator.png",
+    "description": "This is a React calculator application teaching the use of React`s Context Provider which allows sharing certaing values from a parent component to child components",
+    "github_link": "https://github.com/Zahata/React_Calculator/tree/dev"
+  },
+  {
+    "id": 1,
+    "title": "React movie catalogue application",
+    "image": "Movieland.png",
+    "description": "This is a very simple React application to display the use of useState, useEffect and fetch API with search functionality implemented",
+    "github_link": "https://github.com/Zahata/react_movie_catalogue/tree/dev"
+  },
+  {
+    "id": 2,
+    "title": "React monsters rolodex application",
+    "image": "Rolodex.png",
+    "description": "This is a React application which I developed during my Udemy React studies, it teaches me how to use react components lifecycle, useEffect, useState and the power of custom components",
+    "github_link": "https://github.com/Zahata/Monster_rolodex_react_udemy/tree/dev"
+  },
+  {
+    "id": 3,
+    "title": "React weather application",
+    "image": "weather.png",
+    "description": "This is a React application to retrieve weather data using axios instead of fetch API and show the data based on your location or parameters which the user inserts",
+    "github_link": "https://github.com/Zahata/react_weather_app/tree/dev"
+  }
+]
